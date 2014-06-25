@@ -14,7 +14,8 @@
     "assets":    {
       "logos":       {
         "200px": "./public/images/crowdcurity-logo-200.png",
-        "132px": "./public/images/crowdcurity-logo-132.png"
+        "132px": "./public/images/crowdcurity-logo-132.png",
+        "500px": "./public/images/crowdcurity_dashboardscreenshot.png"
       }
     },
     "interface": [
