@@ -1,7 +1,7 @@
 {
   "name":        "CrowdCurity",
   "description": "Crowdsourced web security - Connecting businesses with security testers",
-  "version":     "0.1",
+  "version":     "0.2",
   "category":    "security monitoring",
   "config":      {
     "details":   {
