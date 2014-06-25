@@ -1,0 +1,35 @@
+{
+  "name":        "CrowdCurity",
+  "description": "Crowdsourced web security - Connecting businesses with security testers",
+  "version":     "0.1",
+  "category":    "security monitoring",
+  "config":      {
+    "details":   {
+      "Language":     "English",
+      "Price":        "Free",
+      "Restrictions": "None",
+      "TOS":          "https://www.crowdcurity.com/terms",
+      "has_js":       false
+    },
+    "assets":    {
+      "logos":       {
+        "200px": "./public/images/crowdcurity-logo-200.png",
+        "132px": "./public/images/crowdcurity-logo-132.png"
+      }
+    },
+    "interface": [
+      {
+        "type":           "string",
+        "id":             "program_description",
+        "name":           "Program Description",
+        "description":    "Briefly describe your web application and the main test objectives.",
+        "domain_request": true,
+        "private":        true
+      }
+    ]
+  },
+  "account":     {
+    "callback_url": "https://www.crowdcurity.com/api/cloud_flare/v1",
+    "user_fields":  ["email"]
+  }
+}
