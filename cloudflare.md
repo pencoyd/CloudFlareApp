@@ -1,27 +1,23 @@
-#### Crowdsourced Web Security
-
-CrowdCurity provides a platform for crowdsourced penetration testing of your web application. Many of the big guys such as [Google](https://www.google.com/about/appsecurity/reward-program/), [Facebook](https://www.facebook.com/whitehat) and [Github](https://bounty.github.com/) do bug bounty programs to leverage the power of the security researcher community to find the vulnerabilities which will unavoidingly slip through to the live web application. CrowdCurity enables you to publish and manage your own bug bounty program directly through CloudFlare in a few simple steps and totally free.
-
 #### A Free Security Check
 
-By leveraging the collective intelligence of the crowd, businesses can secure their websites/web applications and create a safer internet for everybody and increase trust among their users. Therefore we want to enable both small and big businesseses to tap into the huge potential of crowdsourced security testing. CrowdCurity provides:
+Leverage the collective intelligence of the crowd, get a secure website/web application, create a safer internet for everybody, and increase trust among your users. We want to enable both small and big businesseses to tap into the huge potential of crowdsourced security testing. CrowdCurity provides:
 
-- Access to a crowdsourced team of 1000+ security researchers
+- Access to a crowdsourced team of 1000+ trusted security researchers
 - Structure for incoming vulnerability reports and feedback
 - Strict standard rules for what the testers can and cannot do
 - A 100% free security test of your web app
 
 #### Easy to get Started
 
-1. You go setup your CloudFlare CrowdCurity App
-2. You provide a short description on what kind of security testing you are looking for
-3. We invite the security researchers to starting testing
+1. You add the CrowdCurity app to your CloudFlare website
+2. Provide a few sentences on what kind of security testing you are looking for
+3. We invite the security researchers to start testing
 
 #### Easy to manage
 
-1. You will receive vulnerability reports in a nice intuitive and structured dashboard
-2. You decide if a given report is valid and reward the testers with points
-3. You can stop the test at any time
+1. You'll receive vulnerability reports in a nice intuitive and structured dashboard
+2. You decide if a given report is valid, reward the tester with points and patch the vulnerability
+3. At any time, You can stop the security test
 
 ![Screenshot of CrowdCurity](/images/apps/crowdcurity/crowdcurity_dashboardscreenshot.png)	
 
