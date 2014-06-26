@@ -23,4 +23,6 @@ By leveraging the collective intelligence of the crowd, businesses can secure th
 2. You decide if a given report is valid and reward the testers with points
 3. You can stop the test at any time
 
-![crowdcurity image](/images/apps/crowdcurity/crowdcurity_dashboardscreenshot.png)	
+![Screenshot of CrowdCurity](/images/apps/crowdcurity/crowdcurity_dashboardscreenshot.png)	
+
+<a href="mailto:info@crowdcurity.com">Email</a> us or find us on <a href="https://twitter.com/crowdcurity">Twitter</a>.
