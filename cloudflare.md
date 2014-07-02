@@ -21,4 +21,4 @@ Leverage the collective intelligence of the crowd, get a secure website/web appl
 
 ![Screenshot of CrowdCurity](/images/apps/crowdcurity/crowdcurity_dashboardscreenshot.png)	
 
-<a href="mailto:info@crowdcurity.com">Email</a> us or find us on <a href="https://twitter.com/crowdcurity">Twitter</a>.
+<a href="mailto:hello@crowdcurity.com">Email</a> us or find us on <a href="https://twitter.com/crowdcurity">Twitter</a>.
