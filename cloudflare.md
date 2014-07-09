@@ -7,7 +7,7 @@ Leverage the collective intelligence of the crowd, get a secure website/web appl
 - Strict standard rules for what the testers can and cannot do
 - A 100% free security test of your web app
 
-#### Easy to get Started
+#### Easy to get started
 
 1. You add the CrowdCurity app to your CloudFlare website
 2. Provide a few sentences on what kind of security testing you are looking for
@@ -17,7 +17,7 @@ Leverage the collective intelligence of the crowd, get a secure website/web appl
 
 1. You'll receive vulnerability reports in a nice intuitive and structured dashboard
 2. You decide if a given report is valid, reward the tester with points and patch the vulnerability
-3. At any time, You can stop the security test
+3. At any time, you can stop the security test
 
 ![Screenshot of CrowdCurity](/images/apps/crowdcurity/crowdcurity_dashboardscreenshot.png)	
 
